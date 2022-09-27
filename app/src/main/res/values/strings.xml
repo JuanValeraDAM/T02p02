@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">T02p02</string>
+    <string name="tv_FichaAlumno">Ficha del Alumno</string>
+    <string name="tv_1">DNI</string>
+    <string name="tv_2">Nombre</string>
+    <string name="rb_1">Hombre</string>
+    <string name="rb_2">Mujer</string>
+    <string name="ck_Edad">¿Es mayor de edad?</string>
+    <string name="bt_Aceptar">Aceptar</string>
+    <string name="bt_Cancelar">Cancelar</string>
+
+</resources>
