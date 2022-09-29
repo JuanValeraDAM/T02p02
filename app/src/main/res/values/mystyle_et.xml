@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <style name="MyStyle_EditText">
+        <item name="android:inputType">number|numberDecimal</item>
+        <item name="android:gravity">end</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#FFA000</item>
+        <item name="android:typeface">serif</item>
+        <item name="android:background">#FFECB3</item>
+    </style>
+</resources>

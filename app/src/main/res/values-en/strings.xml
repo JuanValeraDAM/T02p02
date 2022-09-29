@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">T02p03</string>
+    <string name="tv_Cabecera">Student Sheet</string>
+    <string name="tv_Dni">DNI</string>
+    <string name="tv_Nombre">Name</string>
+    <string name="rb_Hombre">Man</string>
+    <string name="rb_Mujer">Woman</string>
+    <string name="cb_Edad">Is old?</string>
+    <string name="bt_Cancelar">Cancel</string>
+    <string name="bt_Aceptar">Confirm</string>
+    <string name="msg_DatosObligatorios">Missing obligatory data</string>
+    <string name="msg_DatosEliminados">Data deleted</string>
+    <string name="msg_Dni">Dni:</string>
+    <string name="msg_Nombre">Name:</string>
+    <string name="msg_SexoH">Gender: Man</string>
+    <string name="msg_SexoM">Gender: Woman</string>
+    <string name="msg_MayorE">Is an old person</string>
+    <string name="msg_MenorE">Is a young person</string>
+</resources>

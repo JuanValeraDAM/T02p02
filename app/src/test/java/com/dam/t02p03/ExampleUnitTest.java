@@ -1,4 +1,4 @@
-package com.dam.t02p02;
+package com.dam.t02p03;
 
 import org.junit.Test;
 

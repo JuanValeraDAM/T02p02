@@ -1,4 +1,4 @@
-package com.dam.t02p02;
+package com.dam.t02p03;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.dam.t02p02", appContext.getPackageName());
+        assertEquals("com.dam.t02p03", appContext.getPackageName());
     }
 }

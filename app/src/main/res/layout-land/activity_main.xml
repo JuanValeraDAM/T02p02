@@ -133,16 +133,14 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/bt_Aceptar"
-            android:textColor="@color/colors_buttons_text_xml" />
+            android:text="@string/bt_Aceptar" />
 
         <Button
             android:id="@+id/btCancelar"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/bt_Cancelar"
-            android:textColor="@color/colors_buttons_text_xml" />
+            android:text="@string/bt_Cancelar" />
     </LinearLayout>
 
 </LinearLayout>
